@@ -1,0 +1,21 @@
+PROJECT 1 – DATA CLEANING & PREPARATION
+
+Dataset Used:
+orders.xlsx
+
+Changes Made:
+1. Checked the dataset for missing/null values.
+2. Found 309 missing values in the CouponCode column.
+3. Filled missing CouponCode values with "No Coupon".
+4. Checked for duplicate rows and found 0 duplicate rows.
+5. Checked for duplicate Order IDs and found 0 duplicate Order IDs.
+6. Checked the Date column for invalid date formats and found 0 invalid dates.
+7. Converted the Date column into standard YYYY-MM-DD format.
+8. Saved the cleaned dataset as cleaned_orders.xlsx.
+
+Final Result:
+- Missing CouponCode values handled
+- No duplicate rows
+- No duplicate Order IDs
+- No invalid dates
+- Cleaned dataset ready for use
